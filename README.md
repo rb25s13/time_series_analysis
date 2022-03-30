@@ -1,4 +1,3 @@
-# template
+# time series analysis - stonks
 
-template for cloning .gitignore to future repos
-
+to the moon
